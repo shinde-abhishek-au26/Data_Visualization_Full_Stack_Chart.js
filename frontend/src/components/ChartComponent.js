@@ -1,3 +1,4 @@
+// CHART COMPONENT IS DONE BY USING CHART.JS
 import React, { useEffect, useRef } from 'react';
 import { Chart, registerables } from 'chart.js';
 
